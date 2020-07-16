@@ -1,0 +1,4 @@
+__pycache__/
+flask_blog/flask_blog.db
+htmlcov/
+.coverage
