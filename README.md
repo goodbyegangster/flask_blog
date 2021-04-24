@@ -1,4 +1,6 @@
-# 概要
+# flack_blog
+
+## 概要
 
 [ゼロからFlaskがよくわかる本: Pythonで作るWebアプリケーション開発入門](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Flask%E3%81%8C%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%9C%AC-%E6%9C%AC%E7%94%B0%E5%B4%87%E6%99%BA-ebook/dp/B07F2X9GRQ) にて作成したサンプルWEBサイト
 
